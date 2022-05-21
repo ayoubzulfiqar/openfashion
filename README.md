@@ -10,7 +10,7 @@ A new Flutter Open fashion project.
 
 ### MainApp
 
-![main](https://drive.google.com/uc?export=view&id=1xtByEkisIHAen2ovwpoFr63_gKeGS2pN)
+![main](https://drive.google.com/uc?export=view&id=1uPe2a7E8zP93BFCwPVlziEm-E3CKzreR)
 
 ### Copyright
 
